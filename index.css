@@ -3,7 +3,7 @@ body {
 	font-family: Helvetica, Arial, sans-serif;
 	background: #d6d6d6;
 	text-align: center;
-	padding: 50px 0px;
+	padding: 10px;
 	-webkit-transform-style: preserve-3d;
 	-webkit-perspective: 400;
 }
@@ -93,4 +93,10 @@ box-shadow: 0px 2px 0px #2b638f, 0px 1px 6px rgba(0,0,0,.4), inset 0px 1px 0px r
 li.list-group-item {
     background: transparent;
     border: 0;
+}
+.hide{
+	display:none !important;
+}
+.show{
+	display:block !important;
 }
