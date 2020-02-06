@@ -7,6 +7,13 @@ body {
 	-webkit-transform-style: preserve-3d;
 	-webkit-perspective: 400;
 }
+a{
+	text-decoration:none;
+}
+a:hover {
+    color: white;
+	text-decoration:none;
+}
 
 .button {
 	display: inline-block;
